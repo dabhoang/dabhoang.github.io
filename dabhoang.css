@@ -55,6 +55,7 @@ p{
 }
 h2{
   font-family: "Courier New", Courier, monospace;
+  white-space: nowrap;
 }
 
 
